@@ -15,7 +15,7 @@
             xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="com.example.demo.Controller">
     <children>
-        <Text fx:id="nameoftable" fill="#0800ee" layoutX="9.0" layoutY="35.0" strokeType="OUTSIDE" text="WeatherViever"
+        <Text fx:id="nameoftable" fill="#0800ee" layoutX="9.0" layoutY="35.0" strokeType="OUTSIDE" text="WeatherViewer"
               textAlignment="CENTER" wrappingWidth="343.13671875">
             <font>
                 <Font name="Berlin Sans FB Demi Bold" size="24.0"/>
