@@ -10,5 +10,5 @@ After typing city`s name and pressing button, app send URL request and getiing i
 JSON is formated to string type and parse to JSON Object which used in text fields of JavaFX Pane.
 
 ## Dependencies
-- Json
-- JavaFX
+- Json;
+- JavaFX.
