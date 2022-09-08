@@ -1,5 +1,5 @@
 # Weather Viewer
-App with graphical interface and show weather for all cities which was added.
+App with graphical interface and show weather for all cities which was inputed.
 App is used [Openweathermap API](https://openweathermap.org/api/).
 
 ## How to use
