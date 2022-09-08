@@ -22,11 +22,11 @@
             </font>
         </Text>
         <TextField id="1" fx:id="nameOfCity" layoutX="42.0" layoutY="55.0" prefHeight="25.0" prefWidth="293.0"
-                   text="Введите название города"/>
+                   text="Enter the name of a city"/>
         <Button id="2" fx:id="Button" layoutX="70.0" layoutY="93.0" mnemonicParsing="false" prefHeight="25.0"
-                prefWidth="237.0" text="Узнать погоду" textAlignment="JUSTIFY" textFill="#1a22b9"/>
+                prefWidth="237.0" text="Enter" textAlignment="JUSTIFY" textFill="#1a22b9"/>
         <Text id="3" fx:id="temperature" layoutX="42.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0"
-              text="Температура:" wrappingWidth="200.13671875">
+              text="Temperature:" wrappingWidth="200.13671875">
             <fill>
                 <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
                     <stops>
@@ -47,7 +47,7 @@
                 <Font size="18.0"/>
             </font>
         </Text>
-        <Text id="4" fx:id="max" layoutX="42.0" layoutY="207.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Максимум:"
+        <Text id="4" fx:id="max" layoutX="42.0" layoutY="207.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Max:"
               wrappingWidth="268.13671875">
             <font>
                 <Font size="18.0"/>
@@ -69,7 +69,7 @@
                 </RadialGradient>
             </fill>
         </Text>
-        <Text id="5" fx:id="min" layoutX="42.0" layoutY="243.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Минимум:"
+        <Text id="5" fx:id="min" layoutX="42.0" layoutY="243.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Min:"
               wrappingWidth="200.13671875">
             <font>
                 <Font size="18.0"/>
@@ -92,7 +92,7 @@
             </fill>
         </Text>
         <Text id="6" fx:id="feeling" layoutX="42.0" layoutY="283.0" strokeType="OUTSIDE" strokeWidth="0.0"
-              text="Ощущается:" wrappingWidth="200.2734375">
+              text="Felt:" wrappingWidth="200.2734375">
             <font>
                 <Font size="18.0"/>
             </font>
@@ -114,7 +114,7 @@
             </fill>
         </Text>
         <Text id="7" fx:id="pressure" layoutX="42.0" layoutY="317.0" strokeType="OUTSIDE" strokeWidth="0.0"
-              text="Давление:">
+              text="Pressure:">
             <font>
                 <Font size="18.0"/>
             </font>
